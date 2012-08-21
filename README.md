@@ -1,0 +1,1 @@
+A simple Sublime Text plugin for converting selected HTML to HAML using the [html2haml](https://github.com/haml/html2haml) Ruby Gem, which needs to be installed separately.
